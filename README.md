@@ -4,7 +4,7 @@ URL Opener is a Python script that opens URLs found in a text file (.txt) or mar
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3
 
 ## Getting Started
 
